@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fleet.png">
+	
+	
+	<SubTexture name="annoyed idle0000" x="0" y="0" width="161" height="334" frameX="-3" frameY="0" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0001" x="0" y="0" width="161" height="334" frameX="-3" frameY="0" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0002" x="174" y="0" width="160" height="333" frameX="-1" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0003" x="174" y="0" width="160" height="333" frameX="-1" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0004" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0005" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0006" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0007" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0008" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0009" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0010" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0011" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0012" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="annoyed idle0013" x="348" y="0" width="160" height="333" frameX="0" frameY="-1" frameWidth="163" frameHeight="334" />
+	<SubTexture name="fleet up0000" x="522" y="0" width="185" height="329" frameX="-1" frameY="0" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0001" x="522" y="0" width="185" height="329" frameX="-1" frameY="0" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0002" x="720" y="0" width="187" height="320" frameX="0" frameY="-8" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0003" x="720" y="0" width="187" height="320" frameX="0" frameY="-8" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0004" x="921" y="0" width="188" height="319" frameX="-1" frameY="-10" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0005" x="921" y="0" width="188" height="319" frameX="-1" frameY="-10" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleet up0006" x="921" y="0" width="188" height="319" frameX="-1" frameY="-10" frameWidth="188" frameHeight="329" />
+	<SubTexture name="fleetdown0000" x="1123" y="0" width="210" height="286" frameX="-4" frameY="-4" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetdown0001" x="1123" y="0" width="210" height="286" frameX="-4" frameY="-4" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetdown0002" x="1347" y="0" width="210" height="286" frameX="-1" frameY="-1" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetdown0003" x="1347" y="0" width="210" height="286" frameX="-1" frameY="-1" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetdown0004" x="1570" y="0" width="208" height="287" frameX="0" frameY="0" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetdown0005" x="1792" y="0" width="208" height="287" frameX="0" frameY="0" frameWidth="218" frameHeight="290" />
+	<SubTexture name="fleetleft0000" x="0" y="347" width="199" height="320" frameX="0" frameY="0" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetleft0001" x="0" y="347" width="199" height="320" frameX="0" frameY="0" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetleft0002" x="212" y="347" width="194" height="317" frameX="-7" frameY="-3" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetleft0003" x="212" y="347" width="194" height="317" frameX="-7" frameY="-3" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetleft0004" x="420" y="347" width="185" height="316" frameX="-7" frameY="-4" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetleft0005" x="420" y="347" width="185" height="316" frameX="-7" frameY="-4" frameWidth="200" frameHeight="320" />
+	<SubTexture name="fleetright0000" x="618" y="347" width="290" height="322" frameX="0" frameY="-11" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0001" x="618" y="347" width="290" height="322" frameX="0" frameY="-11" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0002" x="922" y="347" width="284" height="327" frameX="0" frameY="-6" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0003" x="922" y="347" width="284" height="327" frameX="0" frameY="-6" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0004" x="1220" y="347" width="279" height="330" frameX="0" frameY="-3" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0005" x="1220" y="347" width="279" height="330" frameX="0" frameY="-3" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0006" x="1513" y="347" width="279" height="332" frameX="0" frameY="0" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetright0007" x="1513" y="347" width="279" height="332" frameX="0" frameY="0" frameWidth="290" frameHeight="332" />
+	<SubTexture name="fleetwayidle0000" x="1806" y="347" width="185" height="346" frameX="-5" frameY="-3" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0001" x="0" y="707" width="178" height="345" frameX="-10" frameY="-5" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0002" x="0" y="707" width="178" height="345" frameX="-10" frameY="-5" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0003" x="191" y="707" width="174" height="348" frameX="-12" frameY="-2" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0004" x="191" y="707" width="174" height="348" frameX="-12" frameY="-2" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0005" x="379" y="707" width="183" height="350" frameX="-6" frameY="0" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0006" x="379" y="707" width="183" height="350" frameX="-6" frameY="0" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0007" x="575" y="707" width="187" height="348" frameX="-2" frameY="-1" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0008" x="575" y="707" width="187" height="348" frameX="-2" frameY="-1" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0009" x="776" y="707" width="189" height="347" frameX="-1" frameY="-1" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0010" x="776" y="707" width="189" height="347" frameX="-1" frameY="-1" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0011" x="978" y="707" width="190" height="347" frameX="0" frameY="-2" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0012" x="978" y="707" width="190" height="347" frameX="0" frameY="-2" frameWidth="190" frameHeight="350" />
+	<SubTexture name="fleetwayidle0013" x="978" y="707" width="190" height="347" frameX="0" frameY="-2" frameWidth="190" frameHeight="350" />
+	<SubTexture name="ugh0000" x="1182" y="707" width="156" height="335" frameX="0" frameY="-2" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0001" x="1352" y="707" width="154" height="336" frameX="-4" frameY="-1" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0002" x="1520" y="707" width="154" height="336" frameX="-4" frameY="-1" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0003" x="1688" y="707" width="154" height="336" frameX="-3" frameY="-1" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0004" x="1856" y="707" width="154" height="335" frameX="-3" frameY="-1" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0005" x="0" y="1070" width="154" height="335" frameX="-2" frameY="-1" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0006" x="168" y="1070" width="155" height="336" frameX="-2" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0007" x="336" y="1070" width="155" height="336" frameX="-1" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0008" x="505" y="1070" width="155" height="336" frameX="-1" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0009" x="674" y="1070" width="155" height="336" frameX="-1" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0010" x="842" y="1070" width="155" height="336" frameX="-1" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0011" x="1011" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0012" x="1180" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0013" x="1349" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0014" x="1518" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0015" x="1687" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0016" x="1687" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0017" x="1687" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+	<SubTexture name="ugh0018" x="1687" y="1070" width="155" height="336" frameX="0" frameY="0" frameWidth="158" frameHeight="336" />
+</TextureAtlas>
