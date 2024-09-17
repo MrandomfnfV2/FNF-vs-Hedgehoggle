@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt start",
+			"indices": [],
+			"name": "cereal"
+		},
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "no bone",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			],
+			"name": "cereal"
+		},
+		{
+			"offsets": [
+				24,
+				-89
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "sleep-loop",
+			"indices": [],
+			"name": "zzz"
+		},
+		{
+			"offsets": [
+				59,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wake up",
+			"indices": [],
+			"name": "wakey wakey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sunky idle"
+		},
+		{
+			"offsets": [
+				71,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cronch",
+			"indices": [],
+			"name": "nom"
+		},
+		{
+			"offsets": [
+				-17,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sunky down"
+		},
+		{
+			"offsets": [
+				0,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sunky up"
+		},
+		{
+			"offsets": [
+				-26,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sunky right"
+		},
+		{
+			"offsets": [
+				70,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sunkyleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				67
+			],
+			"anim": "sleep",
+			"fps": 24,
+			"name": "xx",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunky",
+	"position": [
+		-50,
+		220
+	],
+	"healthicon": "fs",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		10,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
